@@ -2,7 +2,6 @@ uye-kayit-sistemi-php
 =====================
 
 @author: Selim Şimşek
-@date  : 11.09.2014
 
 =====================
 
