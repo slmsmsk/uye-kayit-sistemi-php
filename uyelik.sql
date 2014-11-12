@@ -40,13 +40,6 @@ CREATE TABLE IF NOT EXISTS `uye` (
 ) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_bin AUTO_INCREMENT=8 ;
 
 --
--- Tablo döküm verisi `uye`
---
-
-INSERT INTO `uye` (`uye_id`, `uye_onay`, `uye_kod`, `uye_adi`, `uye_soyadi`, `uye_kullanici_adi`, `uye_sifre`, `uye_dogum_tarihi`, `uye_email`, `uye_aktivasyon_kodu`) VALUES
-(7, 0, '', 'selim', 'şimşek', 'slmsmsk', 'bd182ec9244e15f6560f529ec188f4ce', '1992-06-03', 'slmsmsk@gmail.com', '4e46014959511c05efb5136d76ab079d');
-
---
 -- Dökümü yapılmış tablolar için indeksler
 --
 
